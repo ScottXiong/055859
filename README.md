@@ -4,6 +4,6 @@
 
 # 学习路线和归纳
 
-front-end
-|-:|-:|
+前端|涉及的知识点
+|-:-|-:-|
 vue|vue2.0,axios,webpack,element-ui
