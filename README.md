@@ -6,4 +6,4 @@
 
 前端|涉及的知识点
 |-:-|-:|
-vue|vue2.0,axios,webpack,element-ui
+vue|vue2.0,axios,webpack,element-ui;
