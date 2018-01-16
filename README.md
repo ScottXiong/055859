@@ -33,7 +33,7 @@ element|
 material|
 **自动化构建工具**|**涉及的知识点**
 [yoman](http://yeoman.io/)|有一个强大的generator
-[bower](https://bower.io/)|版本控制
+[bower](https://bower.io/)|版本控制,支持url install，配置文件bower.json bowerrc
 [grunt](https://gruntjs.com/)|
 [generator](https://npms.io/search?q=generator-angular)|
 
