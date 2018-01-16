@@ -13,7 +13,7 @@ react| redux
 html|html,css2/3,[sass](http://sass-lang.com/)(基于ruby，扩展css),js,html5
 [jquery](https://jquery.com/)|
 **【后台】**|**涉及的知识点**
-node|express(ejs,jade) koa nodemon pm2
+node|express(ejs,jade) koa nodemon pm2，注意配置文件^和～的区别，分别更新主版本内和最低版本
 python|
 php|
 C++/objC/swift|
@@ -32,8 +32,8 @@ semantic|
 element|
 material|
 **自动化构建工具**|**涉及的知识点**
-[yoman](http://yeoman.io/)|
-[bower](https://bower.io/)|
+[yoman](http://yeoman.io/)|有一个强大的generator
+[bower](https://bower.io/)|版本控制
 [grunt](https://gruntjs.com/)|
 [generator](https://npms.io/search?q=generator-angular)|
 
