@@ -6,13 +6,13 @@
 **【前端】** | **涉及的知识点**
 |:-:|:-|
 vue | vue2.0 axios webpack element-ui
-angular|1.0  2.0  4.0  5.0 etc. and material ngx-bootstrap
+angular|1.0  2.0  4.0  5.0 etc. and material ngx-bootstrap,rxjs
 react| redux
-ionic|2.0 3.0, [官网](https://ionicframework.com/)
+[ionic]((https://ionicframework.com/))|2.0 3.0, 
 grunt|[官网](https://gruntjs.com/getting-started)
 webpack|[官网](https://webpack.js.org/)
 html|html,css2/3,[sass](http://sass-lang.com/)(基于ruby，扩展css),js,html5
-jquery|[官网](https://jquery.com/)
+[jquery](https://jquery.com/)|
 **【后台】**|**涉及的知识点**
 node|express(ejs,jade) koa nodemon pm2
 python|
@@ -23,7 +23,7 @@ javaEE|jsp,javaWeb,Struts+Hibernate+Spring
 **【数据库】**|**涉及的知识点**
 mysql|
 mongodb|
-oracle|[官网](https://www.oracle.com/index.html)
+[oracle]((https://www.oracle.com/index.html))|
 redis|
 **【系统】**|**涉及的知识点**
 linux|ubuntu centos nginx pm2 虚拟机
