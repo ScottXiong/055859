@@ -36,6 +36,7 @@ material|
 [bower](https://bower.io/)|版本控制,支持url install，配置文件bower.json .bowerrc
 [grunt](https://gruntjs.com/)|
 [generator](https://npms.io/search?q=generator-angular)|
+[homebrew](https://brew.sh/)|
 
 ### 自动化工具的重要性
 一个从工具化到纯手工操练， 再到现在强调工具化的一个反复， 工具已经变得越来越重要， 做工具， 做标准的 白鹭引擎， HBuilder 这些创业公司发展的都很好， 相信这也是未来的前端发展趋势。 毕竟： 工欲善其事， 必先利其器吗。
